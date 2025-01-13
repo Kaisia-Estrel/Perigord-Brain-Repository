@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "ad1a9f794ec82f96",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b54ed78dd8787ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b521c07782eb804f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "055f8915357a814a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valuable Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valuable Resources"
+            }
+          },
+          {
+            "id": "901ceeabe5c1b3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valuable Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valuable Resources"
+            }
+          },
+          {
+            "id": "d50534006d1fb70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Classical Logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Non-Classical Logic"
+            }
+          },
+          {
+            "id": "8358743fd40f5c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beyond Good and Evil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beyond Good and Evil"
+            }
+          },
+          {
+            "id": "71ece1993b51a445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valuable Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valuable Resources"
+            }
+          },
+          {
+            "id": "22622eae0325bbc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valuable Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valuable Resources"
+            }
+          },
+          {
+            "id": "38bda90253fda920",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f46d33e45cd3a467",
+    "type": "split",
+    "children": [
+      {
+        "id": "2927749105c977c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd2750964ceb1e79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c21f90c660ad386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f59c9bc94f73a09c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e760fd0e1d82132c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37a8a717fe4dcfe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0318e85d01fd5ecc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CMDLine tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CMDLine tools"
+            }
+          },
+          {
+            "id": "08deb8d798a98273",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CMDLine tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CMDLine tools"
+            }
+          },
+          {
+            "id": "8a5011a73c52385f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e63c8c29370501e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CMDLine tools.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CMDLine tools"
+            }
+          },
+          {
+            "id": "7f3310263608aebc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 528.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7f3310263608aebc",
+  "lastOpenFiles": [
+    "Valuable Resources.md",
+    "Non-Classical Logic.md",
+    "CMDLine tools.md",
+    "Beyond Good and Evil.md",
+    "CSS/SASS.md",
+    "CSS",
+    "Elixir.md"
+  ]
+}
