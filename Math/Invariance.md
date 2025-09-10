@@ -1,0 +1,1 @@
+Property of a mathematical object wherein it remains unchanged after operations or transformations are applied 

@@ -1,4 +1,3 @@
-O
 # Tips
 - Use`\pagenumbering{gobble}` to remove page numbering.
 - with the `blindtext` package, use `\blindtext[n]` to generate sample text. `n` for repititions. Use `\Blindtext[n][m]` to generate `n` paragraphs of `m` repitition.
