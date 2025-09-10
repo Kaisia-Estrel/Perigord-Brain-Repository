@@ -1,4 +1,8 @@
 {
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "/Pasted Image.*/"
+  ],
+  "attachmentFolderPath": "./attachments"
 }

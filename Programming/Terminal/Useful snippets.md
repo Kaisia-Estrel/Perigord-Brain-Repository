@@ -23,3 +23,5 @@ Create a number, prefixing 0's if it's too short
 unzip -j -c -q "$FILE" ComicInfo.xml | xml ed -d 'ComicInfo/{}' > ComicInfo.xml; zip "$FILE" ComicInfo.xml; rm ComicInfo.xml
 ```
 Bash oneliner for editing the ComicInfo of a `.cbz` file
+
+- `xxd` to get hexadecimal representation of a file to STDOUT

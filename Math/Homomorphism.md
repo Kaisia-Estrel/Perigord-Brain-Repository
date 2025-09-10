@@ -1,0 +1,1 @@
+structure-preserving map between 2 algebraic structures of the same type.
