@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Latex.md",
+                "file": "Math/Set Theory/Set Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,7 +94,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "Set Theory"
             }
           },
           {
@@ -103,12 +103,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Latex.md",
+                "file": "Math/Set Theory/Set Theory.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "Set Theory"
             }
           },
           {
@@ -129,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Invariance.md",
+                "file": "Math/Set Theory/Set Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invariance"
+              "title": "Set Theory"
             }
           },
           {
@@ -143,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Amorphous Set.md",
+                "file": "Math/Set Theory/Amorphous Set.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -293,13 +303,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Invariance.md",
+                "file": "Math/Set Theory/Set Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Invariance"
+              "title": "Outline of Set Theory"
             }
           },
           {
@@ -343,26 +353,30 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "35b3f0da3678a339",
+  "active": "28d9f04dc0543c3c",
   "lastOpenFiles": [
-    "Math/Untitled.md",
-    "Math/Invariance.md",
-    "Math/ZFA.md",
-    "Math/Amorphous Set.md",
     "Programming/Latex.md",
-    "Math/Groups.md",
-    "Math/Automorphism.md",
-    "Math/Homomorphism.md",
+    "Math/Set Theory/Set Theory.md",
+    "Math/Set Theory/Amorphous Set.md",
+    "Math/Set Theory/Invariance.md",
+    "Math/Set Theory/Homomorphism.md",
+    "Programming/HTML/Semantic Elements.md",
+    "Programming/HTML/Untitled.md",
+    "Programming/Git/Git.md",
+    "Programming/CSS/CSS.md",
+    "Programming/CSS/Units.md",
+    "Programming/CSS/SASS.md",
+    "Programming/CSS/FontAwesome.md",
+    "Programming/CSS/Alignment.md",
+    "Math/Set Theory/ZFA.md",
+    "Math/Set Theory/Groups.md",
+    "Math/Set Theory",
+    "Math/Untitled.md",
+    "Math/Set Theory/Automorphism.md",
     "Math",
     "Programming/Biblatex.md",
     "2025-06-26.md",
     "2025-W26.md",
-    "Programming/CSS/CSS.md",
-    "Programming/HTML/Semantic Elements.md",
-    "Programming/CSS/FontAwesome.md",
-    "Programming/CSS/SASS.md",
-    "Programming/CSS/Alignment.md",
-    "Programming/HTML/Untitled.md",
     "Art/Design/Colors.md",
     "Programming/Biblatex.md~",
     "Programming/Terminal/Useful snippets.md",
@@ -373,17 +387,13 @@
     "Art/Landmarks.md",
     "Art/attachments/Pasted image 20250324125618.png",
     "Art/Shoulders.md",
-    "Programming/Git/Git.md",
     "Programming/Git",
     "Pasted image 20250324125124.png",
     "Art/attachments",
     "Programming",
     "Art",
     "Valuable Resources.md",
-    "Programming/CSS/Units.md",
     "Pasted image 20250320115536.png",
-    "Programming/Terminal",
-    "Programming/HTML",
-    "Studies/Beyond Good and Evil.md"
+    "Programming/Terminal"
   ]
 }

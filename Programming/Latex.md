@@ -116,7 +116,9 @@ You can also use the package `fancyvrb` to improve or extend verbatim environmen
 ```latex
 \DefineVerbatimEnvironment{CodeVerbatim}{Verbatim}{bgcolor=LightGray}
 ```
-# Symbols
+# Latex Commands
+- `\overline{A}`: $\overline{A}$
+# Latex Symbols
 - `\land`: $\land$
 - `\lor`: $\lor$
 - `\lnot`: $\lnot$
@@ -131,4 +133,11 @@ You can also use the package `fancyvrb` to improve or extend verbatim environmen
 - `\leftarrow` $\leftarrow$
 - `\rightarrow` $\rightarrow$
 - `\cup`: $\cup$
+- `\cap`: $\cap$
 - `\sqcup`: $\sqcup$
+- `\supset`: $\supset$
+- `\supseteq`: $\supseteq$
+- `\subset`: $\subset$
+- `\subseteq`: $\subseteq$
+- `\complement`: $\complement$
+- `\wp`: $\wp$
