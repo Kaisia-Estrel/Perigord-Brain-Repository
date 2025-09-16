@@ -118,6 +118,7 @@ You can also use the package `fancyvrb` to improve or extend verbatim environmen
 ```
 # Latex Commands
 - `\overline{A}`: $\overline{A}$
+- `\mathbb{A}`: $\mathbb{A}$
 # Latex Symbols
 - `\land`: $\land$
 - `\lor`: $\lor$
@@ -141,3 +142,8 @@ You can also use the package `fancyvrb` to improve or extend verbatim environmen
 - `\subseteq`: $\subseteq$
 - `\complement`: $\complement$
 - `\wp`: $\wp$
+- `\le`: $\le$
+- `\ge`: $\ge$
+- `\cong`: $\cong$
+- `\equiv`: $\equiv$
+- `\ne`: $\ne$
