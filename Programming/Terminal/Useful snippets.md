@@ -25,3 +25,8 @@ unzip -j -c -q "$FILE" ComicInfo.xml | xml ed -d 'ComicInfo/{}' > ComicInfo.xml;
 Bash oneliner for editing the ComicInfo of a `.cbz` file
 
 - `xxd` to get hexadecimal representation of a file to STDOUT
+
+Replace all direct path bash shebangs to one that uses `/usr/bin/env`
+```bash
+rg -l '^#!/bin/bash' | xargs sed -i 's/^#!\/bin\/bash/#!\/usr\/bin\/env bash/g'`
+```

@@ -343,7 +343,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Set Theory/Filter.md",
+                "file": "Nix/REPL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -358,7 +358,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Filter"
+              "title": "REPL"
             }
           },
           {
@@ -591,13 +591,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Set Theory/Filter.md",
+                "file": "Nix/REPL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filter"
+              "title": "Outline of REPL"
             }
           },
           {
@@ -643,26 +643,29 @@
   },
   "active": "2b8bfd5ddd89546f",
   "lastOpenFiles": [
-    "Programming/Latex.md",
+    "Programming/Terminal/Useful snippets.md",
+    "Nix/REPL.md",
+    "Nix",
+    "Programming/Terminal/Terminal.md",
+    "Math/Set Theory/ZF.md",
+    "Math/Set Theory/Invariance.md",
+    "Math/Set Theory/Group.md",
     "Math/Set Theory/Filter.md",
+    "Math/Set Theory/Amorphous Set.md",
+    "Programming/Latex.md",
     "Math/Set Theory/attachments/Pasted image 20250916093034.png",
     "Math/Set Theory/attachments",
-    "Math/Set Theory/ZF.md",
-    "Math/Set Theory/Amorphous Set.md",
-    "Math/Set Theory/Group.md",
     "Math/Set Theory/ZFA.md",
     "Math/Set Theory/Set Theory.md",
     "Math/Morphism.md",
     "Math/Functions.md",
     "Math/Set Theory/Homomorphism.md",
-    "Math/Set Theory/Invariance.md",
     "Math/Set Theory/Automorphism.md",
     "Art/Landmarks.md",
     "2025-09-15.md",
     "Untitled.canvas",
     "Programming/CSS/CSS.md",
     "Programming/Biblatex.md",
-    "Programming/Terminal/Useful snippets.md",
     "Programming/HTML/HTML.md",
     "Programming/HTML/Semantic Elements.md",
     "Programming/attachments/Pasted image 20250406194512.png",
@@ -673,7 +676,6 @@
     "Programming/CSS/Alignment.md",
     "Math/Set Theory",
     "Math",
-    "2025-06-26.md",
     "Programming/Biblatex.md~",
     "Art/Design",
     "Programming/attachments",
@@ -682,7 +684,6 @@
     "Pasted image 20250324125124.png",
     "Art/attachments",
     "Programming",
-    "Art",
     "Pasted image 20250320115536.png"
   ]
 }
