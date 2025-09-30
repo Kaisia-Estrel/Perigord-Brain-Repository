@@ -43,7 +43,7 @@ $\pi(x) = x$
 A model of set theory with atoms ([[ZFA]]) constructed using a [[Group]] of permutations on the atoms
 
 Suppose $S$ is a set, $G$ is a group of permutations of $\mathbb{A}(S)$.
-A normal [[Filter]] of $G$ is a collection $F$  $\forall x \in F. x \le G$
+A [[Filter#Normal Filter | Normal Filter]] of $G$ is a collection $F$  $\forall x \in F. x \le G$
 such that:
 $$
 \begin{flalign*}
@@ -56,5 +56,3 @@ $$
 $$
 
 
-
-z

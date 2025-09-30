@@ -147,3 +147,5 @@ You can also use the package `fancyvrb` to improve or extend verbatim environmen
 - `\cong`: $\cong$
 - `\equiv`: $\equiv$
 - `\ne`: $\ne$
+- `\vdash`: $\vdash$
+- `\bot`: $\bot$

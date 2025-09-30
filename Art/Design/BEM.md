@@ -7,12 +7,12 @@ https://getbem.com/
 
 - use `block--modifier-value` syntax
 	- **GOOD**
-```html
-<div class="block block--mod">...</div>
-<div class="block block--size-big block--shadow-yes">...</div>
-```
+	```html
+	<div class="block block--mod">...</div>
+	<div class="block block--size-big block--shadow-yes">...</div>
+	```
 	- **BAD**
-```html
-<div class="block--mod">...</div>
-<div class="block--big block--shadow">...</div>
-```
+	```html
+	<div class="block--mod">...</div>
+	<div class="block--big block--shadow">...</div>
+	```

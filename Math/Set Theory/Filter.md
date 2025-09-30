@@ -30,4 +30,19 @@ The picture above shows a subset of integers ordered by divisibility
 A cofinite subset is an example of a filter
 
 A cofinite subset of a set $X$ is a subset $A$ whose complement in $X$ is a finite set
+$A \subset X \text{ where } X/A: \text{is finite}$
 
+# Ordinal Numbers (Ordinals)
+Generalization of ordinal numerals aimed to extend enumeration to infinite sets
+
+Ordinal numbers generalize the notion of succession
+
+After the largest natural number, $\omega$ follows as the first infinite ordinal and you can use $\omega + 1, \omega + 2, ...$, afterwards $\omega \times \omega$, etc.
+
+This existence of ordinal numbers prove the implication that any set can be well-ordered under the axiom of choice.
+
+# Diagonal Intersection
+$\displaystyle \{\beta <\delta \mid \beta \in \bigcap _{\alpha <\beta }X_{\alpha }\}$
+Currently Incomprehensible for me
+# Normal Filter
+A filter closed under diagonal intersection
