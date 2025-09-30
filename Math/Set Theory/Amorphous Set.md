@@ -1,4 +1,4 @@
- A set can be mentioned as amorphous if it is not the disjoint union of 2 infinite subsets.
+O A set can be mentioned as amorphous if it is not the disjoint union of 2 infinite subsets.
  
 ## Disjoint Union
  - Indexed union

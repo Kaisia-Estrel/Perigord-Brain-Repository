@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Terminal/Useful snippets.md",
+                "file": "Math/Set Theory/Amorphous Set.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Useful snippets"
+              "title": "Amorphous Set"
             }
           },
           {
@@ -276,23 +276,23 @@
   },
   "active": "4f9ef9c2e9567c9e",
   "lastOpenFiles": [
+    "Math/Set Theory/Group.md",
+    "Math/Set Theory/Invariance.md",
     "Math/Set Theory/The Axiom of Choice.md",
+    "Math/Set Theory/ZFA.md",
     "Math/Set Theory/Set Theory.md",
+    "Programming/Terminal/Useful snippets.md",
     "Math/Set Theory/Amorphous Set.md",
     "Math/Set Theory/Filter.md",
     "Art/Design/BEM.md",
     "Programming/CSS/Alignment.md",
     "Programming/CSS/FontAwesome.md",
     "Math/Sequent Calculus.md",
-    "Math/Set Theory/ZFA.md",
-    "Math/Set Theory/Group.md",
     "Programming/Latex.md",
     "Nix/REPL.md",
-    "Programming/Terminal/Useful snippets.md",
     "Nix",
     "Programming/Terminal/Terminal.md",
     "Math/Set Theory/ZF.md",
-    "Math/Set Theory/Invariance.md",
     "Math/Set Theory/attachments/Pasted image 20250916093034.png",
     "Math/Set Theory/attachments",
     "Math/Morphism.md",
