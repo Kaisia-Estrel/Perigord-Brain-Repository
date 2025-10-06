@@ -1,0 +1,3 @@
+$$
+\lim{x \to \infty}
+$$
