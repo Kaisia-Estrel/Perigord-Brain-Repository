@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Untitled.md",
+                "file": "Math/Topology/Topological Space.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Topological Space"
             }
           },
           {
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Untitled.md",
+                "file": "Math/Topology/Topological Space.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Topological Space"
             }
           },
           {
@@ -258,13 +258,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
   "active": "4f9ef9c2e9567c9e",
   "lastOpenFiles": [
-    "Math/Set Theory/Amorphous Set.md",
+    "Math/Topology/Clopen Subset.md",
+    "Math/Topology/Topological Space.md",
     "Daily Notes/Untitled.md",
+    "Math/Topology",
+    "Math/Set Theory/Amorphous Set.md",
     "Daily Notes",
     "Math/Set Theory/Set Theory.md",
     "Math/Set Theory/The Axiom of Choice.md",
@@ -292,8 +298,6 @@
     "2025-09-15.md",
     "Untitled.canvas",
     "Programming/CSS/CSS.md",
-    "Programming/Biblatex.md",
-    "Programming/HTML/HTML.md",
     "Programming/attachments/Pasted image 20250406194512.png",
     "Math/Set Theory",
     "Math",
@@ -303,7 +307,6 @@
     "Art/attachments/Pasted image 20250324125618.png",
     "Programming/Git",
     "Pasted image 20250324125124.png",
-    "Art/attachments",
     "Pasted image 20250320115536.png"
   ]
 }
