@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f9ef9c2e9567c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Topology/Topological Space.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Topological Space"
-            }
-          },
-          {
-            "id": "eec4637016766015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Set Theory/Filter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Filter"
-            }
-          },
-          {
-            "id": "d74a216a2d27f08f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Latex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Latex"
-            }
-          },
-          {
             "id": "b9ba133d6e4f252b",
             "type": "leaf",
             "state": {
@@ -224,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Topology/Topological Space.md",
+                "file": "Math/Set Theory/Set Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Topological Space"
+              "title": "Outline of Set Theory"
             }
           },
           {
@@ -258,16 +186,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4f9ef9c2e9567c9e",
+  "active": "b9ba133d6e4f252b",
   "lastOpenFiles": [
-    "Math/Topology/Clopen Subset.md",
+    "Programming/Latex.md",
+    "Math/Set Theory/Filter.md",
+    "Programming/Parsing/Grammars.md",
+    "Programming/Biblatex.md",
     "Math/Topology/Topological Space.md",
+    "Programming/Parsing",
+    "Math/Topology/Clopen Subset.md",
     "Daily Notes/Untitled.md",
     "Math/Topology",
     "Math/Set Theory/Amorphous Set.md",
@@ -279,11 +209,9 @@
     "Math/Set Theory/Invariance.md",
     "Math/Set Theory/ZFA.md",
     "Programming/Terminal/Useful snippets.md",
-    "Math/Set Theory/Filter.md",
     "Art/Design/BEM.md",
     "Programming/CSS/Alignment.md",
     "Programming/CSS/FontAwesome.md",
-    "Programming/Latex.md",
     "Nix/REPL.md",
     "Nix",
     "Programming/Terminal/Terminal.md",
@@ -295,9 +223,7 @@
     "Math/Set Theory/Homomorphism.md",
     "Math/Set Theory/Automorphism.md",
     "Art/Landmarks.md",
-    "2025-09-15.md",
     "Untitled.canvas",
-    "Programming/CSS/CSS.md",
     "Programming/attachments/Pasted image 20250406194512.png",
     "Math/Set Theory",
     "Math",
@@ -305,7 +231,6 @@
     "Art/Design",
     "Programming/attachments",
     "Art/attachments/Pasted image 20250324125618.png",
-    "Programming/Git",
     "Pasted image 20250324125124.png",
     "Pasted image 20250320115536.png"
   ]
