@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "5aae92c4ceaaa64d",
+            "id": "484fe53c5b9eab5e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -180,6 +180,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,

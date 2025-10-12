@@ -1,6 +1,8 @@
 [
-  "obsidian-git",
-  "calendar",
+  "vim-yank-highlight",
   "darlal-switcher-plus",
-  "folder-notes"
+  "obsidian-latex-suite",
+  "obsidian-git",
+  "folder-notes",
+  "calendar"
 ]

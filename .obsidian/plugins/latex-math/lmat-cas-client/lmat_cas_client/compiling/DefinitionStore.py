@@ -1,0 +1,1 @@
+/nix/store/av1cklbgngq1dpd06chzsjfh8qc5j684-home-manager-files/Documents/Perigord Brain Repository/.obsidian/plugins/latex-math/lmat-cas-client/lmat_cas_client/compiling/DefinitionStore.py

@@ -1,0 +1,1 @@
+/nix/store/av1cklbgngq1dpd06chzsjfh8qc5j684-home-manager-files/Documents/Perigord Brain Repository/.obsidian/plugins/darlal-switcher-plus/src/settings/__tests__/workspaceSettingsTabSection.test.ts

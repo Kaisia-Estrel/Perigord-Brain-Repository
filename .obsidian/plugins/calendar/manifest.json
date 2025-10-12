@@ -1,10 +1,1 @@
-{
-  "id": "calendar",
-  "name": "Calendar",
-  "description": "Calendar view of your daily notes",
-  "version": "1.5.10",
-  "author": "Liam Cain",
-  "authorUrl": "https://github.com/liamcain/",
-  "isDesktopOnly": false,
-  "minAppVersion": "0.9.11"
-}
+/nix/store/av1cklbgngq1dpd06chzsjfh8qc5j684-home-manager-files/Documents/Perigord Brain Repository/.obsidian/plugins/calendar/manifest.json
